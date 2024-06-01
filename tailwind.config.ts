@@ -39,6 +39,12 @@ const config: Config = {
         "greyscale-0": "hsl(var(--greyscale-0))",
         "greyscale-1": "hsl(var(--greyscale-1))",
         "greyscale-2": "hsl(var(--greyscale-2))",
+        "greyscale-3": "hsl(var(--greyscale-3))",
+        "greyscale-6": "hsl(var(--greyscale-6))",
+        "greyscale-7": "hsl(var(--greyscale-7))",
+
+
+
       },
     },
   },

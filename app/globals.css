@@ -30,7 +30,10 @@
     --greyscale-black: 0 0% 0%;
     --greyscale-0: 180 31% 94%;
     --greyscale-1: 180 20% 83%;
-    --greyscale-2: 180 12% 75%;
+    --greyscale-2: 180 3% 94%;
+    --greyscale-3: 180, 31%, 94%;
+    --greyscale-6: 180, 12%, 75%;
+    --greyscale-7: 178, 19%, 73%;
   }
 }
 
