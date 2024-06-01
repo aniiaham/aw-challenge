@@ -10,9 +10,27 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+    --background-start-rgb: 255, 255, 255;
+    --background-end-rgb: 255, 255, 255;
+    --light-teal-0: 184 77% 24%;
+    --light-teal-1: 184 74% 30%;
+    --light-teal-main: 184 44% 49%;
+    --light-teal-3: 184 52% 69%;
+    --light-teal-4: 184 64% 79%;
+    --light-teal-5: 184 57% 87%;
+
+    --dark-teal-0: 184 100% 3%;
+    --dark-teal-1: 182 100% 5%;
+    --dark-teal-2: 184 100% 6%;
+    --dark-teal-3: 184 100% 9%;
+    --dark-teal-4: 183 100% 13%;
+    --dark-teal-main: 184 100% 15%;
+
+    --greyscale-white: 0 0% 100%;
+    --greyscale-black: 0 0% 0%;
+    --greyscale-0: 180 31% 94%;
+    --greyscale-1: 180 20% 83%;
+    --greyscale-2: 180 12% 75%;
   }
 }
 
